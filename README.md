@@ -1,4 +1,4 @@
-nano README.md# CSCE1015 - Hochstetler
+# CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
 
 ## EUID
